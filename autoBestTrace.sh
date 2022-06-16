@@ -4,7 +4,7 @@
 
 # install besttrace
 if [ ! -f "besttrace" ]; then
-    wget https://github.com/zhuji9999/autoBestTrace/raw/master/besttrace
+    wget https://github.com/zjzjcp/autoBestTrace/raw/master/besttrace
     # unzip besttrace4linux.zip
     chmod +x besttrace
 fi
